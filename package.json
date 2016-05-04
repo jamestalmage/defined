@@ -3,6 +3,9 @@
     "version" : "1.0.0",
     "description" : "return the first argument that is `!== undefined`",
     "main" : "index.js",
+    "files": [
+      "index.js"
+    ],
     "directories" : {
         "example" : "example",
         "test" : "test"
